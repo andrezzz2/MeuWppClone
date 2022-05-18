@@ -1,5 +1,5 @@
 # WppClone
-Clone do Whatsapp usando Next.js e firebase para autenticação e BD
+Clone do Whatsapp usando Next.js e firebase para autenticação e BD, atualmente em https://mydate-47b62.web.app
 
 SPA, fullpage, responsivo.
 
