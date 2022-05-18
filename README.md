@@ -28,3 +28,16 @@ SPA, fullpage, responsivo.
 -email-validator
 
 -better-react-spinkit
+
+# Como utilizar
+
+Para inicializar:
+
+-yarn dev
+
+Para gerar site estático:
+-yarn build
+
+Para fazer deploy:
+-firebase deploy --only hosting
+
