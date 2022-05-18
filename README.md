@@ -12,8 +12,19 @@ SPA, fullpage, responsivo.
 
 
 # Bibliotecas utilizadas
--Styled components
 
--Material UI
+-react
 
--Material UI Icons
+-react-dom
+
+-react-firebase-hooks
+
+-styled-components
+
+-@mui/material
+
+-@mui/icons-material
+
+-email-validator
+
+-better-react-spinkit
